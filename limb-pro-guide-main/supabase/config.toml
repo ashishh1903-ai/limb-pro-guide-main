@@ -1,0 +1,4 @@
+project_id = "fziwapnwobmkotrqwchk"
+
+[functions.physio-chat]
+verify_jwt = false
